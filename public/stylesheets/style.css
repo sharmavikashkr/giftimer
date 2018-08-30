@@ -1,0 +1,18 @@
+
+body {
+  margin: 0 auto;
+}
+
+.header {
+  background-color: #1e90ff;
+  color: #ffffff;
+  padding: 10px 10px;
+}
+
+.grouping {
+  padding-bottom: 20px;
+}
+
+.btmInputs {
+  margin-bottom: 10px;
+}
